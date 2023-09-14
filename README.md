@@ -20,4 +20,4 @@ WiFi/Bluetooth - Needs card, will probably get a natively supported one.
 
 Integrated Graphics - iGPU support was pretty much impossible to get working due to this desktop using a proprietary mainboard. Tried every configuration I could find on the internet with it but couldn't get display working with GPU acceleration. To get around this I installed a dGPU.
 
-Microsoft Teams - Not sure why, looking into a fix.
+Microsoft Teams - Not sure why, looking into a fix. This could have something to do with VDA Failing, will look into enabling iGPU again but make it run without driving a display.
